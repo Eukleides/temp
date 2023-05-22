@@ -1,0 +1,6 @@
+Can you modify the calc_total_time function such that it takes into account the batch number and whether a given MarketKey has already been calculated within that batch by a previous trade within the same batch. 
+
+Modify the python script as required, such that it determines how to group the trades into 64 batches such that the overall calculation time is minimised.
+
+Please save the batch results into a json file with the same format as before.
+
